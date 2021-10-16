@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "star": 5,
+    "name": "Vishal Ramane",
+    "review": "I had some development experience before (backend) and I wanted to really learn JavaScript and I must tell you, this is the best JavaScript course on the internet period. It has everything you need to get you up to speed and more!!! Apart from innovative challenges and awesome projects, what I personally really admired was the fact that Jonas really took a lot of effort in explaining How JS works under the hood and that is the most"
+  },
+  {
+    "id": 2,
+    "star": 4,
+    "name": "Nitin Kaushal",
+    "review": "I am happy to learn a lot of topics in this course. The thing which attracts the most is the way he explains every concept in this course and implement."
+  },
+  {
+    "id": 3,
+    "star": 5,
+    "name": "Hancel Ávila",
+    "review": "I love the way Jonas teaches using real world examples. The diagrams and the theory lessons are great to deeply understand how JS works behind scenes. All the lessons are pretty neat and there's no problem to follow them in order or skipping by the suggested"
+  },
+  {
+    "id": 4,
+    "star": 4,
+    "name": "Keerthivenkatesh",
+    "review": "Really amazing course each lecture are very clear cut explanation. His way of teaching style are very superb! Whenever anyone asked me, for javascript. Definitely I recommended this."
+  }
+]

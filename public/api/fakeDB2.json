@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "courseName": "Object oriented JavaScript",
+    "instructior": "HM Nayem",
+    "trainerIMG": "https://import.cdn.thinkific.com/176279/lfn6L7UkQo6rO93kVLcQ_HM%20Nayem%20300x300.png",
+    "description": "The course is organized in such a way that everyone from beginners to experts in programming can benefit from it. The first few chapters discuss the fundamentals of programming. This is followed by a discussion of three important topics in JavaScript: arrays, objects, and functions. Then slowly advanced concepts such as functional programming, object oriented programming, scope, closure, prototype, asynchronous programming, issues like DOM manipulation have been discussed. It also discusses the many uses of JavaScript in a practical way.",
+    "aboutTrainer": "I am a full-stack web and mobile application developer, entrepreneur and trainer. I love to work with new technologies, new people and new environment. I like ideas not to talk about but like to implement. My passion is learning and exploring new technologies and programming languages. I think the best way to learn anything is to teach people about that thing. I am an evergreen learner",
+    "price": 4500,
+    "duration": 100,
+    "include": ["Simple JS", "JS DOM", "ES6", "Asynchronus JavaScript"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhdFgKwWT0BD32WAPhBz04H7yjV1VMu7axw&usqp=CAU"
+  }

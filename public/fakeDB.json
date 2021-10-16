@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "courseName": "Full-Stack React Development",
+    "instructior": "HM Nayem",
+    "trainerIMG": "https://import.cdn.thinkific.com/176279/lfn6L7UkQo6rO93kVLcQ_HM%20Nayem%20300x300.png",
+    "description": "This course is the most up-to-date, comprehensive and bestselling React course on Udemy. It was completely updated and re-recorded from the ground up in 2021 - it teaches the very latest version of React with all the core, modern features you need to know .This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements. React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
+    "aboutTrainer": "I am a full-stack web and mobile application developer, entrepreneur and trainer. I love to work with new technologies, new people and new environment. I like ideas not to talk about but like to implement. My passion is learning and exploring new technologies and programming languages. I think the best way to learn anything is to teach people about that thing. I am an evergreen learner",
+    "price": 5000,
+    "duration": 60,
+    "include": ["React JS", "React Hooks", "Next JS"],
+    "img": "https://reactjs.org/logo-og.png"
+  },
+  {
+    "id": 2,
+    "courseName": "Object oriented JavaScript",
+    "instructior": "HM Nayem",
+    "trainerIMG": "https://import.cdn.thinkific.com/176279/lfn6L7UkQo6rO93kVLcQ_HM%20Nayem%20300x300.png",
+    "description": "The course is organized in such a way that everyone from beginners to experts in programming can benefit from it. The first few chapters discuss the fundamentals of programming. This is followed by a discussion of three important topics in JavaScript: arrays, objects, and functions. Then slowly advanced concepts such as functional programming, object oriented programming, scope, closure, prototype, asynchronous programming, issues like DOM manipulation have been discussed. It also discusses the many uses of JavaScript in a practical way.",
+    "aboutTrainer": "I am a full-stack web and mobile application developer, entrepreneur and trainer. I love to work with new technologies, new people and new environment. I like ideas not to talk about but like to implement. My passion is learning and exploring new technologies and programming languages. I think the best way to learn anything is to teach people about that thing. I am an evergreen learner",
+    "price": 4500,
+    "duration": 100,
+    "include": ["Simple JS", "JS DOM", "ES6", "Asynchronus JavaScript"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhdFgKwWT0BD32WAPhBz04H7yjV1VMu7axw&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "courseName": "Complete Web-Development Course",
+    "instructior": "Jhankar Mahbub",
+    "trainerIMG": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1607429059803.png",
+    "description": "Can manage video content or courses in many ways. But an effective and enjoyable learning environment to take it to an internship / fulltime job is only available in this course.From scratch, this course will easily swallow everything you need to become a professional web developer without any prior experience. As part of the course, you will do eleven new projects (assignments) by hand. We will give feedback on your project. I will give Marx. So that you can go to the job interview by creating a professional website.",
+    "aboutTrainer": "Jhangkar Mahbub has been involved in programming and web development for over a decade. After completing his studies at BUET, he did his Masters in Computer Science at North Dakota State University in the United States. He then worked for a long time as a senior web developer at Nielsen Company in the United States. He is currently living with his wife Kareena Islam in the Silicon Valley area of ​​the US state of California. He has written three popular books on simple programming, fun and storytelling. The books are: Programming for the Hubble, Bull to Boss of Programming, and Fourteen Groups of Programming.",
+    "price": 5500,
+    "duration": 200,
+    "include": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"],
+    "img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1622954504238.png"
+  },
+  {
+    "id": 4,
+    "courseName": "Basic HTML5 and CSS3",
+    "instructior": "Moshiur Rahman",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/46933261_1960245294052858_2443023727777021952_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=V0S7XZh6g0IAX_JNSfh&tn=a8ou8DGMcGFmaVed&_nc_ht=scontent.fdac135-1.fna&oh=f5e26d8a72c597c24e374bea935b1b38&oe=617D9B74",
+    "description": "Learn how to develop modern websites using HTML and CSS in one single project from scratch in 8 hours in video format. You'll be taken from an absolute novice to being able to design and implement a functional, modern, static, front end, essentially a typical website, for any web application using HTML and CSS. Every step of the way is fully explained and the source code is provided broken down for each video, section or for the whole course. This way you can jump in at any point in the project, download the source code and files and work through the project. The course has been designed in such a way that you'll learn all the theory required while doing the project. Therefore it's very important that you do the project yourself while you're watching the videos.",
+    "aboutTrainer": "The Coders Foundation has been providing web site design and development services at home and abroad for more than a year. Besides, it has been conducting various activities including special IT courses since 2019 to ensure self-reliance. In order to eliminate unemployment and increase the growth rate in the country, we are giving the necessary guidelines to engage in freelancing.",
+    "price": 3500,
+    "duration": 40,
+    "include": ["HTML5", "CSS3"],
+    "img": "https://practity.com/en/wp-content/uploads/sites/2/2018/03/html-css-tutorials2.jpg"
+  },
+  {
+    "id": 5,
+    "courseName": "Web Development Wordpress",
+    "instructior": "Moshiur Rahman",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/46933261_1960245294052858_2443023727777021952_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=V0S7XZh6g0IAX_JNSfh&tn=a8ou8DGMcGFmaVed&_nc_ht=scontent.fdac135-1.fna&oh=f5e26d8a72c597c24e374bea935b1b38&oe=617D9B74",
+    "description": "This course will guide you through every single step from installation to finished website.  I'll show you how you can install Wordpress on your own computer for free, so you don't have to pay for a domain name or hosting fees while you complete this course.  Once you've got Wordpress installed on your computer, you will learn how to build and run a successful, beautiful, responsive-design website you can be proud of. After taking you through all of the main options in Wordpress, explaining what each one does and how you set it up, I'll let you watch over my shoulder as I build a Wordpress website.",
+    "aboutTrainer": "The Coders Foundation has been providing web site design and development services at home and abroad for more than a year. Besides, it has been conducting various activities including special IT courses since 2019 to ensure self-reliance. In order to eliminate unemployment and increase the growth rate in the country, we are giving the necessary guidelines to engage in freelancing.",
+    "price": 3500,
+    "duration": 40,
+    "include": [
+      "Wordpress",
+      "Wordpress Theme Development",
+      "Theme Customization"
+    ],
+    "img": "https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png"
+  },
+  {
+    "id": 6,
+    "courseName": "Basic Node JS & Express JS",
+    "instructior": "Shumit Saha",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/212356901_132643268999751_4605603988974057447_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KphhUse46hcAX-G48qx&_nc_ht=scontent.fdac135-1.fna&oh=f05d2e5a4436e0e83278ef34765b3fcc&oe=61801675",
+    "description": "The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.The entire course is based around a single goal: Turning you into a professional Node developer capable of developing,testing, and deploying real-world production applications. From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done.",
+    "aboutTrainer": "Sumit is specialized in Full Stack Web & Software Development. His Learn with Sumit platform is all about teaching web development skills and techniques in an efficient and practical manner. He started Learn with Sumit in order to share his passion for web development, and do what he truly loves - teach and inspire new web developers. If you are just getting started in web development, Learn with Sumit has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Learn with Sumit also deep dives into advanced topics using the latest best practices for you seasoned web developers. Check learnwithsumit.com for more details.",
+    "price": 3500,
+    "duration": 40,
+    "include": ["Node JS", "Express JS", "MongoDB"],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+  },
+  {
+    "id": 7,
+    "courseName": "React JS and MERN stack Project",
+    "instructior": "Shumit Saha",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/212356901_132643268999751_4605603988974057447_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KphhUse46hcAX-G48qx&_nc_ht=scontent.fdac135-1.fna&oh=f05d2e5a4436e0e83278ef34765b3fcc&oe=61801675",
+    "description": "This course is the most up-to-date, comprehensive and bestselling React course on Udemy. It was completely updated and re-recorded from the ground up in 2021 - it teaches the very latest version of React with all the core, modern features you need to know .This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements. React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
+    "aboutTrainer": "Sumit is specialized in Full Stack Web & Software Development. His Learn with Sumit platform is all about teaching web development skills and techniques in an efficient and practical manner. He started Learn with Sumit in order to share his passion for web development, and do what he truly loves - teach and inspire new web developers. If you are just getting started in web development, Learn with Sumit has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Learn with Sumit also deep dives into advanced topics using the latest best practices for you seasoned web developers. Check learnwithsumit.com for more details.",
+    "price": 3500,
+    "duration": 40,
+    "include": ["React JS", "Node JS", "Express JS", "MongoDB"],
+    "img": "https://thenewsmotion.com/wp-content/uploads/2021/10/how-to-complete-react-js-certification-in-2021.jpg"
+  },
+  {
+    "id": 8,
+    "courseName": "Android App Development",
+    "instructior": "Anisul Islam",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t31.18172-8/22135696_1663140257051599_7856493296155450482_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=26tYyfboUV4AX82zp5a&_nc_ht=scontent.fdac135-1.fna&oh=cd33da516257039f2a9028135aafdff9&oe=618151F5",
+    "description": "Kicking things up a notch from my smash-hit The Complete Android N Developer Course (59,000 students + 8,500 five star ratings) -- my latest course is your fast-track, skip-the-queue ticket to building high-calibre Android apps. Because, let’s face it… you’re busy. You want results. And you don’t have time to hang around. And while you wait for that big idea, developers in the US are making an average of $95,000 a year. Excellent instruction and content. Continuously building apps keeps me engaged and drives the lessons home nicely. So far it's a great tutorial for beginners! You learn a lot of concepts in short videos and hence it's not boring. You get to make a lot of apps which makes it lot more practical and interesting! I'm a senior android developer already but this course has been a huge help in revising all the basics and making the android knowledge foundation even stronger.",
+    "aboutTrainer": "There will be a day when no student will fail just because they don't understand the topics easily; it is my dream. And this is why every day, I am making video tutorials of Computer science-related subjects. By the grace of the Almighty, I am quite successful so far. I have ensured that No HSC students won't go for a private tutor as long as they follow my 400 videos on ICT. For those doing a bachelor in CSE, I have made so many videos on some difficult subjects.",
+    "price": 6500,
+    "duration": 150,
+    "include": ["Java", "Android Studio", "Cross Platform app", "Swift"],
+    "img": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg"
+  },
+  {
+    "id": 9,
+    "courseName": "React Native Basic",
+    "instructior": "Rabbil Hasan",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/242797745_4656197484437456_8845280335573316147_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ivYtBNAKrYIAX-5_hfO&_nc_ht=scontent.fdac135-1.fna&oh=62cc6dbd6e0bd6ca4ce26010b684cd39&oe=615F0D13",
+    "description": "Android App Tutorial Web Development Tutorial Web Design Tutorial is The Main Topics of Rabbil Hasan. Moreover programming tutorial like Java Kotlin tutorial are also made by rabbil hasan.Like Anisul islam tutorial you will also really found here some helpful tutorial in Bengali language.  The Computer Science Student's of Bangladesh and India are Most Welcome to my channel.",
+    "aboutTrainer": "Rabbil Hasan is a profressional software engineer. He work on number of progeamming language. He has a youtube channel. There are lot of video of web development and other softwere development.",
+    "price": 6500,
+    "duration": 150,
+    "include": ["React JS", "React Native", "JavaScript"],
+    "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg"
+  }
+]

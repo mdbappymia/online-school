@@ -1,0 +1,12 @@
+{
+    "id": 9,
+    "courseName": "React Native Basic",
+    "instructior": "Rabbil Hasan",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/242797745_4656197484437456_8845280335573316147_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ivYtBNAKrYIAX-5_hfO&_nc_ht=scontent.fdac135-1.fna&oh=62cc6dbd6e0bd6ca4ce26010b684cd39&oe=615F0D13",
+    "description": "Android App Tutorial Web Development Tutorial Web Design Tutorial is The Main Topics of Rabbil Hasan. Moreover programming tutorial like Java Kotlin tutorial are also made by rabbil hasan.Like Anisul islam tutorial you will also really found here some helpful tutorial in Bengali language.  The Computer Science Student's of Bangladesh and India are Most Welcome to my channel.",
+    "aboutTrainer": "Rabbil Hasan is a profressional software engineer. He work on number of progeamming language. He has a youtube channel. There are lot of video of web development and other softwere development.",
+    "price": 6500,
+    "duration": 150,
+    "include": ["React JS", "React Native", "JavaScript"],
+    "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg"
+  }

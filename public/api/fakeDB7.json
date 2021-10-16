@@ -1,0 +1,12 @@
+{
+    "id": 7,
+    "courseName": "React JS and MERN stack Project",
+    "instructior": "Shumit Saha",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/212356901_132643268999751_4605603988974057447_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KphhUse46hcAX-G48qx&_nc_ht=scontent.fdac135-1.fna&oh=f05d2e5a4436e0e83278ef34765b3fcc&oe=61801675",
+    "description": "This course is the most up-to-date, comprehensive and bestselling React course on Udemy. It was completely updated and re-recorded from the ground up in 2021 - it teaches the very latest version of React with all the core, modern features you need to know .This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements. React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
+    "aboutTrainer": "Sumit is specialized in Full Stack Web & Software Development. His Learn with Sumit platform is all about teaching web development skills and techniques in an efficient and practical manner. He started Learn with Sumit in order to share his passion for web development, and do what he truly loves - teach and inspire new web developers. If you are just getting started in web development, Learn with Sumit has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Learn with Sumit also deep dives into advanced topics using the latest best practices for you seasoned web developers. Check learnwithsumit.com for more details.",
+    "price": 3500,
+    "duration": 40,
+    "include": ["React JS", "Node JS", "Express JS", "MongoDB"],
+    "img": "https://thenewsmotion.com/wp-content/uploads/2021/10/how-to-complete-react-js-certification-in-2021.jpg"
+  }

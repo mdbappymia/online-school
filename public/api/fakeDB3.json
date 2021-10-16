@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "courseName": "Complete Web-Development Course",
+    "instructior": "Jhankar Mahbub",
+    "trainerIMG": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1607429059803.png",
+    "description": "Can manage video content or courses in many ways. But an effective and enjoyable learning environment to take it to an internship / fulltime job is only available in this course.From scratch, this course will easily swallow everything you need to become a professional web developer without any prior experience. As part of the course, you will do eleven new projects (assignments) by hand. We will give feedback on your project. I will give Marx. So that you can go to the job interview by creating a professional website.",
+    "aboutTrainer": "Jhangkar Mahbub has been involved in programming and web development for over a decade. After completing his studies at BUET, he did his Masters in Computer Science at North Dakota State University in the United States. He then worked for a long time as a senior web developer at Nielsen Company in the United States. He is currently living with his wife Kareena Islam in the Silicon Valley area of ​​the US state of California. He has written three popular books on simple programming, fun and storytelling. The books are: Programming for the Hubble, Bull to Boss of Programming, and Fourteen Groups of Programming.",
+    "price": 5500,
+    "duration": 200,
+    "include": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"],
+    "img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1622954504238.png"
+  }

@@ -1,0 +1,12 @@
+{
+    "id": 4,
+    "courseName": "Basic HTML5 and CSS3",
+    "instructior": "Moshiur Rahman",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/46933261_1960245294052858_2443023727777021952_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=V0S7XZh6g0IAX_JNSfh&tn=a8ou8DGMcGFmaVed&_nc_ht=scontent.fdac135-1.fna&oh=f5e26d8a72c597c24e374bea935b1b38&oe=617D9B74",
+    "description": "Learn how to develop modern websites using HTML and CSS in one single project from scratch in 8 hours in video format. You'll be taken from an absolute novice to being able to design and implement a functional, modern, static, front end, essentially a typical website, for any web application using HTML and CSS. Every step of the way is fully explained and the source code is provided broken down for each video, section or for the whole course. This way you can jump in at any point in the project, download the source code and files and work through the project. The course has been designed in such a way that you'll learn all the theory required while doing the project. Therefore it's very important that you do the project yourself while you're watching the videos.",
+    "aboutTrainer": "The Coders Foundation has been providing web site design and development services at home and abroad for more than a year. Besides, it has been conducting various activities including special IT courses since 2019 to ensure self-reliance. In order to eliminate unemployment and increase the growth rate in the country, we are giving the necessary guidelines to engage in freelancing.",
+    "price": 3500,
+    "duration": 40,
+    "include": ["HTML5", "CSS3"],
+    "img": "https://practity.com/en/wp-content/uploads/sites/2/2018/03/html-css-tutorials2.jpg"
+  }

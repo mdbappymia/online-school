@@ -1,0 +1,12 @@
+{
+    "id": 6,
+    "courseName": "Basic Node JS & Express JS",
+    "instructior": "Shumit Saha",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/212356901_132643268999751_4605603988974057447_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KphhUse46hcAX-G48qx&_nc_ht=scontent.fdac135-1.fna&oh=f05d2e5a4436e0e83278ef34765b3fcc&oe=61801675",
+    "description": "The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.The entire course is based around a single goal: Turning you into a professional Node developer capable of developing,testing, and deploying real-world production applications. From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done.",
+    "aboutTrainer": "Sumit is specialized in Full Stack Web & Software Development. His Learn with Sumit platform is all about teaching web development skills and techniques in an efficient and practical manner. He started Learn with Sumit in order to share his passion for web development, and do what he truly loves - teach and inspire new web developers. If you are just getting started in web development, Learn with Sumit has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Learn with Sumit also deep dives into advanced topics using the latest best practices for you seasoned web developers. Check learnwithsumit.com for more details.",
+    "price": 3500,
+    "duration": 40,
+    "include": ["Node JS", "Express JS", "MongoDB"],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+  }

@@ -1,0 +1,12 @@
+{
+    "id": 8,
+    "courseName": "Android App Development",
+    "instructior": "Anisul Islam",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t31.18172-8/22135696_1663140257051599_7856493296155450482_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=26tYyfboUV4AX82zp5a&_nc_ht=scontent.fdac135-1.fna&oh=cd33da516257039f2a9028135aafdff9&oe=618151F5",
+    "description": "Kicking things up a notch from my smash-hit The Complete Android N Developer Course (59,000 students + 8,500 five star ratings) -- my latest course is your fast-track, skip-the-queue ticket to building high-calibre Android apps. Because, let’s face it… you’re busy. You want results. And you don’t have time to hang around. And while you wait for that big idea, developers in the US are making an average of $95,000 a year. Excellent instruction and content. Continuously building apps keeps me engaged and drives the lessons home nicely. So far it's a great tutorial for beginners! You learn a lot of concepts in short videos and hence it's not boring. You get to make a lot of apps which makes it lot more practical and interesting! I'm a senior android developer already but this course has been a huge help in revising all the basics and making the android knowledge foundation even stronger.",
+    "aboutTrainer": "There will be a day when no student will fail just because they don't understand the topics easily; it is my dream. And this is why every day, I am making video tutorials of Computer science-related subjects. By the grace of the Almighty, I am quite successful so far. I have ensured that No HSC students won't go for a private tutor as long as they follow my 400 videos on ICT. For those doing a bachelor in CSE, I have made so many videos on some difficult subjects.",
+    "price": 6500,
+    "duration": 150,
+    "include": ["Java", "Android Studio", "Cross Platform app", "Swift"],
+    "img": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg"
+  }

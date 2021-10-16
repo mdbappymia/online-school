@@ -1,0 +1,16 @@
+{
+    "id": 5,
+    "courseName": "Web Development Wordpress",
+    "instructior": "Moshiur Rahman",
+    "trainerIMG": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/46933261_1960245294052858_2443023727777021952_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=V0S7XZh6g0IAX_JNSfh&tn=a8ou8DGMcGFmaVed&_nc_ht=scontent.fdac135-1.fna&oh=f5e26d8a72c597c24e374bea935b1b38&oe=617D9B74",
+    "description": "This course will guide you through every single step from installation to finished website.  I'll show you how you can install Wordpress on your own computer for free, so you don't have to pay for a domain name or hosting fees while you complete this course.  Once you've got Wordpress installed on your computer, you will learn how to build and run a successful, beautiful, responsive-design website you can be proud of. After taking you through all of the main options in Wordpress, explaining what each one does and how you set it up, I'll let you watch over my shoulder as I build a Wordpress website.",
+    "aboutTrainer": "The Coders Foundation has been providing web site design and development services at home and abroad for more than a year. Besides, it has been conducting various activities including special IT courses since 2019 to ensure self-reliance. In order to eliminate unemployment and increase the growth rate in the country, we are giving the necessary guidelines to engage in freelancing.",
+    "price": 3500,
+    "duration": 40,
+    "include": [
+      "Wordpress",
+      "Wordpress Theme Development",
+      "Theme Customization"
+    ],
+    "img": "https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png"
+  }

@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "courseName": "Full-Stack React Development",
+    "instructior": "HM Nayem",
+    "trainerIMG": "https://import.cdn.thinkific.com/176279/lfn6L7UkQo6rO93kVLcQ_HM%20Nayem%20300x300.png",
+    "description": "This course is the most up-to-date, comprehensive and bestselling React course on Udemy. It was completely updated and re-recorded from the ground up in 2021 - it teaches the very latest version of React with all the core, modern features you need to know .This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements. React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
+    "aboutTrainer": "I am a full-stack web and mobile application developer, entrepreneur and trainer. I love to work with new technologies, new people and new environment. I like ideas not to talk about but like to implement. My passion is learning and exploring new technologies and programming languages. I think the best way to learn anything is to teach people about that thing. I am an evergreen learner",
+    "price": 5000,
+    "duration": 60,
+    "include": ["React JS", "React Hooks", "Next JS"],
+    "img": "https://reactjs.org/logo-og.png"
+  }
