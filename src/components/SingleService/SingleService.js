@@ -9,7 +9,7 @@ const SingleService = () => {
   const [course, setCourse] = useState();
   // loda data from single api/fakeDB
   useEffect(() => {
-    fetch(`http://localhost:5000/courses/${_id}`)
+    fetch(`https://online-school-bappy.herokuapp.com/courses/${_id}`)
       .then((res) => res.json())
       .then((data) => setCourse(data));
   }, [_id]);

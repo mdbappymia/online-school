@@ -2,14 +2,16 @@
 import React, { useEffect, useState } from "react";
 import { Container } from "react-bootstrap";
 import { useForm } from "react-hook-form";
-import { useParams } from "react-router";
+import { useHistory, useParams } from "react-router";
+
 const Update = () => {
   const [course, setCourse] = useState({});
   const { id } = useParams();
+  const history = useHistory();
   const { register, handleSubmit, watch, reset } = useForm();
   const onSubmit = (data) => {
     console.log(data);
-    const url = `http://localhost:5000/courses/${id}`;
+    const url = `https://online-school-bappy.herokuapp.com/courses/${id}`;
     fetch(url, {
       method: "PUT",
       headers: {
@@ -22,12 +24,13 @@ const Update = () => {
         if (result.acknowledged) {
           alert("Update Successfully");
           reset();
+          history.push("/admin/deleteORupdate");
         }
       });
   };
 
   useEffect(() => {
-    fetch(`http://localhost:5000/courses/${id}`)
+    fetch(`https://online-school-bappy.herokuapp.com/courses/${id}`)
       .then((res) => res.json())
       .then((data) => setCourse(data));
   }, []);
