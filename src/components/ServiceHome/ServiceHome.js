@@ -3,7 +3,7 @@ import { Card, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import "./ServiceHome.css";
 const ServiceHome = (props) => {
-  const { id, courseName, img, instructior, duration, price } = props.service;
+  const { _id, courseName, img, instructior, duration, price } = props.service;
   return (
     // Service for Home component
     <Card className="home-card">
@@ -18,7 +18,7 @@ const ServiceHome = (props) => {
         </div>
         <hr />
         <div className="d-flex justify-content-between">
-          <Link to={`/singleservice/${id}`}>
+          <Link to={`/singleservice/${_id}`}>
             <Button variant="primary">View Course</Button>
           </Link>
           <p>Price: {price}TK</p>

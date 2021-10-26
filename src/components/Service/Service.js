@@ -5,7 +5,7 @@ import "./Service.css";
 
 const Service = (props) => {
   const history = useHistory();
-  const { courseName, img, instructior, duration, price, description, id } =
+  const { courseName, img, instructior, duration, price, description, _id } =
     props.service;
   // enroll button route function
   const handleEnroll = () => {
@@ -33,10 +33,10 @@ const Service = (props) => {
           </div>
           <div>
             <h4 className="fw-bold">About This Course:</h4>
-            <p className="text-start">{description}</p>
+            <p className="text-start">{description.slice(0, 300)}</p>
           </div>
         </Card.Body>
-        <Link to={`/singleservice/${id}`}>
+        <Link to={`/singleservice/${_id}`}>
           <Button variant="primary">View Course</Button>
         </Link>
       </Card>

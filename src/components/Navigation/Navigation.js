@@ -1,10 +1,12 @@
 import React from "react";
-import { Container, Nav, Navbar } from "react-bootstrap";
+import { Container, Nav, Navbar, Button } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
+import useRent from "../../hooks/useRent";
 import "./Navigation.css";
 
 const Navigation = () => {
   // Navbar using react- bootstrap
+  const { user, logOut } = useRent();
   return (
     <Navbar bg="dark" variant="dark">
       <Container>
@@ -36,6 +38,22 @@ const Navigation = () => {
           >
             Contact us
           </NavLink>
+          {user.email === "mbm.21.02.16@gmail.com" ? (
+            <NavLink className="btn btn-info mx-3" to="/admin">
+              Admin Panel
+            </NavLink>
+          ) : (
+            ""
+          )}
+          {user.email ? (
+            <Button onClick={logOut} variant="danger">
+              Log Out
+            </Button>
+          ) : (
+            <NavLink className="btn btn-success" to="/login">
+              Login
+            </NavLink>
+          )}
         </Nav>
       </Container>
     </Navbar>

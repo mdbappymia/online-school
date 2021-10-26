@@ -5,14 +5,14 @@ import { Link } from "react-router-dom";
 import "./SingleService.css";
 
 const SingleService = () => {
-  const { id } = useParams();
+  const { _id } = useParams();
   const [course, setCourse] = useState();
   // loda data from single api/fakeDB
   useEffect(() => {
-    fetch(`/api/fakeDB${id}.json`)
+    fetch(`http://localhost:5000/courses/${_id}`)
       .then((res) => res.json())
       .then((data) => setCourse(data));
-  }, [id]);
+  }, [_id]);
   const {
     img,
     courseName,
@@ -46,12 +46,12 @@ const SingleService = () => {
       </div>
       <h4>About The Course</h4>
       <p>{description}</p>
-      <div>
+      {/* <div>
         <h5>Major Focus on:</h5>
         {courseInclude.map((item) => (
           <li key={item}>{item}</li>
         ))}
-      </div>
+      </div> */}
       <br />
       <Link to="/enrolled">
         <Button varient="success">Enroll Now</Button>

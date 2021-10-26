@@ -6,7 +6,7 @@ const Services = () => {
   const [services, setServices] = useState([]);
   // load the total data on the fakeDB
   useEffect(() => {
-    fetch("./fakeDB.json")
+    fetch("http://localhost:5000/courses")
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);
@@ -17,7 +17,7 @@ const Services = () => {
       <Row>
         {services.map((service = {}) => (
           <Col md="6">
-            <Service key={service.id} service={service}></Service>
+            <Service key={service._id} service={service}></Service>
           </Col>
         ))}
       </Row>

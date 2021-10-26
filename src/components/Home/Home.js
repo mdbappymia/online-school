@@ -8,7 +8,7 @@ const Home = () => {
   const [homeService, setHomeService] = useState([]);
   // load data from fakeDB
   useEffect(() => {
-    fetch("./fakeDB.json")
+    fetch("http://localhost:5000/courses")
       .then((res) => res.json())
       .then((data) => setHomeService(data));
   }, []);

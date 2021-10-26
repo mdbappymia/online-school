@@ -1,0 +1,12 @@
+.insert-form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+.insert-form input,
+.insert-form textarea {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 10px;
+}
