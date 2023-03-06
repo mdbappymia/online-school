@@ -6,7 +6,7 @@ import "./InsertCourse.css";
 const InsertCourse = () => {
   const { register, handleSubmit, reset } = useForm();
   const onSubmit = (data) => {
-    fetch("https://online-school-bappy.herokuapp.com/courses", {
+    fetch("https://online-school-a1pm.onrender.com/courses", {
       method: "POST",
       headers: {
         "content-type": "application/json",

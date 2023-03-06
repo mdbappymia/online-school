@@ -6,7 +6,7 @@ import "./DeleteOrUpdate.css";
 const DeleteOrUpdate = () => {
   const [courses, setCourses] = useState([]);
   useEffect(() => {
-    fetch("https://online-school-bappy.herokuapp.com/courses")
+    fetch("https://online-school-a1pm.onrender.com/courses")
       .then((res) => res.json())
       .then((data) => setCourses(data));
   }, []);
@@ -14,7 +14,7 @@ const DeleteOrUpdate = () => {
     console.log(id);
     const isDelete = window.confirm("Are you sure? Think again");
     if (isDelete) {
-      fetch(`https://online-school-bappy.herokuapp.com/courses/${id}`, {
+      fetch(`https://online-school-a1pm.onrender.com/courses/${id}`, {
         method: "DELETE",
       })
         .then((res) => res.json())

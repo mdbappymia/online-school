@@ -6,7 +6,7 @@ const Services = () => {
   const [services, setServices] = useState([]);
   // load the total data on the fakeDB
   useEffect(() => {
-    fetch("https://online-school-bappy.herokuapp.com/courses")
+    fetch("https://online-school-a1pm.onrender.com/courses")
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);

@@ -11,7 +11,7 @@ const Update = () => {
   const { register, handleSubmit, watch, reset } = useForm();
   const onSubmit = (data) => {
     console.log(data);
-    const url = `https://online-school-bappy.herokuapp.com/courses/${id}`;
+    const url = `https://online-school-a1pm.onrender.com/courses/${id}`;
     fetch(url, {
       method: "PUT",
       headers: {
@@ -30,7 +30,7 @@ const Update = () => {
   };
 
   useEffect(() => {
-    fetch(`https://online-school-bappy.herokuapp.com/courses/${id}`)
+    fetch(`https://online-school-a1pm.onrender.com/courses/${id}`)
       .then((res) => res.json())
       .then((data) => setCourse(data));
   }, []);
